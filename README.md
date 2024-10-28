@@ -23,7 +23,7 @@ pip install -r requirements.txt
    ```
 2. **Ejecuta el script**:
    ```bash
-   python camo_tracker
+   python camo_tracker.py
    ```
 
 3. **Resultados**:
