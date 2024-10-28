@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Assault Rifles",
+    "weapons": [
+      "XM4",
+      "AK-74",
+      "Ames 85",
+      "GPR 91",
+      "Model L",
+      "Goblin Mk2",
+      "AS VAL"
+    ]
+  },
+  {
+    "category": "SMGs",
+    "weapons": ["C9", "KSV", "Tanto .22", "PP-919", "Jackal PDW", "Kompakt 92"]
+  },
+  {
+    "category": "Shotguns",
+    "weapons": ["Marine SP", "ASG-89"]
+  },
+  {
+    "category": "LMGs",
+    "weapons": ["PU-21", "XMG", "GPMG-7"]
+  },
+  {
+    "category": "Marksman Rifles",
+    "weapons": ["SWAT 5.56", "Tsarkov 7.62", "AEK-973", "DM-10"]
+  },
+  {
+    "category": "Sniper Rifles",
+    "weapons": ["LW3A1 Frostline1", "SVD", "LR 7.62"]
+  },
+  {
+    "category": "Pistols",
+    "weapons": ["9mm PM", "Grekhova", "Stryder .22"]
+  },
+  {
+    "category": "Launchers",
+    "weapons": ["CIGMA 2B", "HE-1"]
+  },
+  {
+    "category": "Melee",
+    "weapons": ["Knife", "Baseball Bat"]
+  }
+]
